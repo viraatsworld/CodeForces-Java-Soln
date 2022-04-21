@@ -1,1 +1,1 @@
-#Codeforces Java Solutions
+Codeforces Java Solutions
