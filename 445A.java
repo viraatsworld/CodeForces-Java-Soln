@@ -193,3 +193,4 @@ public class Viktor{
 	}
 }
 //Took me almost 30 attemps to get accepted.
+//Alternate approach was to put W in odd places and B in even places it is easier than above. 
